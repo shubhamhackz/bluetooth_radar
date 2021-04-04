@@ -1,5 +1,5 @@
 # Bluetooth Radar
-Made with 🔥 in India
+Made with 🔥 and 👨🏾‍💻
 
 ![icon](https://github.com/shubhamhackz/bluetooth_radar/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
 
@@ -16,6 +16,15 @@ Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-
 
 ![Screenshot 3](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/screen_3_55.png)
 ![Screnshsot 4](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/screen_4_55.png)
+
+## Dependencies
+- [flutter_blue](https://pub.dev/packages/flutter_blue)
+- [bluetooth_enable](https://pub.dev/packages/bluetooth_enable)
+- [location](https://pub.dev/packages/location)
+- [device_info](https://pub.dev/packages/device_info)
+
+## Note
+This app is supposed to be run on both android and ios. But the author had only tested it on android device, since he didn't have any ios device.
 
 ## Author 
 - [Facebook](https://www.facebook.com/shubhamhackz)
