@@ -10,6 +10,13 @@ Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-
 
 [![Download Apk](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/apk_btn.png)](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/app.apk)
 
+## App Guidelines
+- Scan nearby devices
+- Check and turn on bluetooth adapter
+- Connect to BLE devices
+- For Android SDK >= 29, you need to turn on location and give permission to the app. 
+- It can take upto 5-10 seconds to connect.
+
 ## Screenshots 
 ![Screenshot 1](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/screen_1_55.png)
 ![Screnshsot 2](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/screen_2_55.png)
