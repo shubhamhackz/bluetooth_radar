@@ -4,11 +4,11 @@ Made with 🔥 in India
 ![icon](https://github.com/shubhamhackz/bluetooth_radar/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
 
 Bluetooth Radar is a simple Bluetooth LE scanning app made with flutter. The app can scan nearyby BLE devices and can connect to them.
+
 ## Download App
 Note : Uploaded apk is a fat apk which works on armeabi-v7a (ARM 32-bit), arm64-v8a (ARM 64-bit), and x86-64 (x86 64-bit). If you want small size apk then please clone this reposittory and generate one using Android Studio or Visual Studio Code.
 
- 
-[![Download Apk](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/app.apk)
+[![Download Apk](https://github.com/shubhamhackz/light_dark_toggle/blob/master/files/apk_btn.png)](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/app.apk)
 
 ## Screenshots 
 ![Screenshot 1](https://github.com/shubhamhackz/bluetooth_radar/blob/main/files/screen_1_55.png)
